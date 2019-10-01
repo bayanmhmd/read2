@@ -36,3 +36,7 @@ extensions available when you need them.
 -Text Wrangler 
 -BB Edit, Visual Studio Code 
 -Atom,Brackets, and Sublime Tex.
+
+*Within a terminal you have what is known as a shell. This is a part of* *the operating system that defines how the terminal will behave and looks* *after running (or executing) commands for you. There are* *various shells available but the most common one is called bash which* *stands for Bourne again shell. This tutorial will assume you are using* *bash as your shell.*
+
+*If you would like to know which shell you are using you may use a* *command called echo to display a system variable stating your current* *shell. echo is a command which is used to display messages.*
