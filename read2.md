@@ -1,4 +1,4 @@
-When you think about studying website development, you should provide a text editor.
+*When you think about studying website development, you should provide a text editor.*
 
 **What is a text editor?**
 
